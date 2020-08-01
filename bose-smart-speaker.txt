@@ -1,3 +1,2 @@
 data.api.bose.io
 iot.api.bose.io
-users.api.bose.io
