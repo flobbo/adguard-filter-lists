@@ -1,2 +1,3 @@
 vsp-alexa-eu.amazon.com
 avs.eu.amazonalexa.com
+voice.api.bose.io
