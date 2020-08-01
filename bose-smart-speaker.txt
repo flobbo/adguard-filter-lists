@@ -1,0 +1,2 @@
+data.api.bose.io
+iot.api.bose.io
